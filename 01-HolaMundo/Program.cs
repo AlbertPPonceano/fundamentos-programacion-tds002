@@ -1,7 +1,7 @@
 /* 
  * Nombre: Albert Adrian Peña Ponceano
  * Fecha: 13/09/2026
- * Descripción: Tarjeta de presentación impresa en la consola con marco decorativo.
+ * Descripción: Tarjeta de presentación impresa en la consola con marco decorativo. A
  */
 
 using System;
